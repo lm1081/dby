@@ -1,0 +1,13 @@
+
+{
+  "storeHouse": [
+  {
+    "sourceName": "正经",
+    "sourceUrl": "https://raw.githubusercontent.com/lm1081/dby/main/1c.txt"
+  }, 
+  {
+    "sourceName": "不正经",
+    "sourceUrl": "https://agit.ai/lm1080/lm1/raw/branch/master/10s.txt"
+  }
+ ]
+}
