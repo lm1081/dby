@@ -1,5 +1,5 @@
 {
- "spider": "https://agit.ai/lm1080/lm1/raw/branch/master/Yoursmile.jar",
+ "spider": "https://github.com/lm1081/dby/raw/main/Yoursmile.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   //首页提示
   "warningText": "每次打开请长按主页键刷新",
@@ -8,7 +8,7 @@
     {
       "name": "♻️live",
       "type": 0,
-      "url": "https://agit.ai/lm1080/lm1/raw/branch/master/ZB.txt",
+      "url": "https://raw.githubusercontent.com/lm1081/dby/main/ZB.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -51,43 +51,43 @@
       "key": "drpy_js_360影视",
       "name": "官源 | 360[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/360.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/360.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/AQY.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/AQY.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "官源 | 优酷[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/YK.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/YK.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/TX.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/TX.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "官源 | 芒果[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/MG.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/MG.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "官源 | 搜狗[js]",
       "type": 3,
-      "api": "https://agit.ai/lm1080/lm1/raw/branch/master/js/drpy2.min.js",
-      "ext": "https://agit.ai/lm1080/lm1/raw/branch/master/js/CG.js"
+      "api": "https://raw.githubusercontent.com/lm1081/dby/main/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/lm1081/dby/main/CG.js"
     },
     {
       "key": "csp_WoGG",
