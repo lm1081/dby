@@ -1,28 +1,28 @@
 {
   "urls": [
     {
-      "url": "https://agit.ai/lm1080/lm1/raw/branch/master/sese.txt",
+      "url": "https://raw.githubusercontent.com/lm1081/dby/main/sese.txt",
       "name": "色色"
     },
     {
       "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
       "name": "高天流云S"
-    },   
+    }/*,   
     {
       "name":"🔞挺好专享",
-      "url":"https://agit.ai/lm1080/lm1/raw/branch/master/th.txt"
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/th.txt"
     },
     {
       "name":"🔞彩蛋",
-      "url":"https://agit.ai/lm1080/lm1/raw/branch/master/cd1.txt"
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/cd1.txt"
     },
     {
       "name":"🔞18+",
-      "url":"https://agit.ai/lm1080/lm1/raw/branch/master/18+.txt"
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/18+.txt"
     },
     {
       "name":"🔞XH",
-      "url":"https://agit.ai/lm1080/lm1/raw/branch/master/XH.txt"
-    }
+      "url":"https://raw.githubusercontent.com/lm1081/dby/main/XH.txt"
+    }*/
   ]
 }
